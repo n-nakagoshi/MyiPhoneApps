@@ -15,6 +15,7 @@ int main (int argc, const char * argv[])
         
         // insert code here... 
         NSLog(@"Hello, World! test test test");
+        NSLog(@"TEST");
         
     }
     return 0;
